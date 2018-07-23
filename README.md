@@ -1,3 +1,4 @@
+
 # Development Environment
 
 ## macOS
@@ -6,6 +7,6 @@
 
 Declare all envronment variables in $HOME/.profile
 
-To reduce problems, dO not use $HOME/.bash_profile 
+To reduce duplications and other problems, do not use $HOME/.bash_profile 
 
-See: [.profile](./.profile)
+See: [$HOME/.profile](./.profile)
