@@ -1,0 +1,61 @@
+***************************************
+     H o m e b r e w
+***************************************
+clang-format 2019-01-18
+cocoapods 1.7.2
+gdbm 1.18.1
+gettext 0.20.1
+icu4c 64.2
+libidn2 2.2.0_1
+libunistring 0.9.10
+node 12.4.0
+openssl 1.0.2s
+pcre 8.43
+python 3.7.3
+readline 8.0.0_1
+sqlite 3.28.0
+tree 1.8.0
+watchman 4.9.0_2
+wget 1.20.3_1
+xz 5.2.4
+yarn 1.17.0
+***************************************
+     N o d e J s
+***************************************
+v10.15.1
+1.8.0
+/usr/local/lib
+├── eslint@3.19.0
+├── jscodeshift@0.4.0
+├── node@10.15.1
+├── npm@6.9.0
+└── react-native-cli@2.0.1
+
+Xcode 11.0
+Build version 11A420a
+***************************************
+     N o d e J s
+***************************************
+TERM_PROGRAM=Apple_Terminal
+ANDROID_HOME=/Users/esutton/Library/Android/sdk
+SHELL=/bin/bash
+TERM=xterm-256color
+TMPDIR=/var/folders/2w/h5db323s5r31_szt1wks2l8h0000gn/T/
+Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.Vd3xyZOsAw/Render
+TERM_PROGRAM_VERSION=421.2
+TERM_SESSION_ID=9A1142BC-3717-4F3F-8BA9-4A2998A21E2E
+USER=esutton
+ANDROID_NDK_ROOT=/Users/esutton/ndk-r15c
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.5ny3kI8cIP/Listeners
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/esutton/Library/Android/sdk/emulator:/Users/esutton/Library/Android/sdk/tools:/Users/esutton/Library/Android/sdk/tools/bin:/Users/esutton/Library/Android/sdk/platform-tools
+PWD=/Users/esutton/Documents/projects/dev-setup-on-macos-host
+LANG=en_US.UTF-8
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=0
+SHLVL=2
+HOME=/Users/esutton
+LOGNAME=esutton
+ANDROID_NDK_BUNDLE=/Users/esutton/Library/Android/sdk/ndk-bundle
+ANDROID_NDK=/Users/esutton/ndk-r15c
+SECURITYSESSIONID=186ab
+_=/usr/bin/printenv
